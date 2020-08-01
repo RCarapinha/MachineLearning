@@ -12,6 +12,10 @@ Map Navigation using several algorithms such as Depth First, Breadth First, Best
 
 <img src="https://github.com/RCarapinha/MachineLearning/blob/master/Lab%202%20-%20MapNavigation/Tool.png" width="500">
 
-## Laboratory 3 - TicTacToe 3D
+## Laboratory 3 - 4-In-Line 3D
+
+4-In-Line with a simple AI implemented. The only option available right now is to play against the computer.
+
+<img src="https://github.com/RCarapinha/MachineLearning/blob/master/Lab%203%20-%20TicTacToe/Example.PNG" width="500">
 
 More info the correspoding reports.
